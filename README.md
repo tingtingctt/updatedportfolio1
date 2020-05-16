@@ -24,6 +24,8 @@ https://tingtingctt.github.io/updatedportfolio1/
 
 * Using media query, the nav bar is responsive to smaller screens, where the expanded narbar menu will switch to a simpler dropdown menu.
 
+* When a portfolio image or its github icon is clicked, a new window will be opened to be redirected - so that the audience won't have to leave the page.
+
 
 ## Background Images:
 
