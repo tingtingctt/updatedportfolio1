@@ -24,12 +24,16 @@ body{
 h1 {
     color: white;
     font-family: 'Rock Salt', cursive;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 h2, a, p, article{
     color: white;
     font-family: Helvetica, sans-serif, Arial;
+}
+
+h3 {
+    font-size: 20px;
 }
 
 nav{
